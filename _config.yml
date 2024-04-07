@@ -1,9 +1,11 @@
 title: Tian.SQL
-#email: idk@whoknows.notme
+email: tiansql@gmail.com
 #description:
 #  Tian's site
 url: "tiansql.github.io"
+telegram_username:  tianwastaken
 github_username:  tiansql
+instagram_username:  typeoftian
 
 kramdown:
   input: GFM

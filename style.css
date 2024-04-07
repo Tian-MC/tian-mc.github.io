@@ -78,6 +78,12 @@ menu {
 menu li {
 	display: inline-block;
 }
+hr {
+	border: 0;
+	border-top: 1px solid rgb(144, 238, 144, 0.33);
+	max-width: 40ch;
+	margin: 0;
+}
 .invert {
 	filter: invert(1);
 }
