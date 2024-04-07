@@ -1,0 +1,12 @@
+title: Tian.SQL
+#email: idk@whoknows.notme
+#description:
+#  Tian's site
+url: "tiansql.github.io"
+github_username:  tiansql
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-feed
