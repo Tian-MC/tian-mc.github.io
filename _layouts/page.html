@@ -2,8 +2,36 @@
 layout: default
 ---
 
-<header>
-	
+<style>
+	.site-title:before {
+		content: ' ';
+		display: inline-block;
+		width: 0em;
+		height: 0.75em;
+		vertical-align: middle;
+		background-image: url(/images/back.webp);
+		background-size: contain;
+		background-repeat: no-repeat;
+		margin-right: 1em;
+		filter: opacity(0);
+		transition: all 0.5s;
+	}
+	.site-title:hover:before {
+		width: 0.75em;
+		filter: brightness(0.5);
+	}
+</style>
+
+<header class="horizontal">
+	<nav>
+		<menu>
+			<li><a href="/">home</a></li>
+			<li><a href="/#projects">projects</a></li>
+			<li><a href="/posts">posts</a></li>
+			<li><a href="/#about">about me</a></li>
+		</menu>
+	</nav>
+	<h2 class="site-title"><a class="noborder" href="/">Tian<span style="font-weight: 400">.SQL</span></a></h2>
 </header>
 
 <main{% if page.listing %} class="list"{% endif %}>

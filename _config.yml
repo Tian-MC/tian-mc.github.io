@@ -10,5 +10,3 @@ instagram_username:  typeoftian
 kramdown:
   input: GFM
   hard_wrap: false
-plugins:
-  - jekyll-feed
