@@ -22,15 +22,15 @@ layout: home
 	<main>
 		<ul class="list full-width">
 			<li>
-				<h3><a href="/#">Osu!Italia</a></h3>
+				<h3><a href="/">Osu!Italia</a></h3>
 				<p>An osu! private server for just Italians. (Dead)</p>
 			</li>
 			<li>
-				<h3><a href="/?">Heaven More</a></h3>
+				<h3><a href="/">Heaven More</a></h3>
 				<p>My biggest and proudest project. It was a Multi-Gaming server which has many gameservers (Dead)</p>
 			</li>
 			<li>
-				<h3><a href="/?">Lunar</a></h3>
+				<h3><a href="https://discord.gg/eEdkHJxj">Lunar</a></h3>
 				<p>A discord server that I created with my girlfriend and that server has a bot coded by us</p>
 			</li>
 			<!--<li>
