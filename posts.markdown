@@ -17,10 +17,7 @@ listing: true
 	<ul class="list horizontal">
 		{% for category in post.categories %}
 		<span class="tag">{{ category }}</span>
-		<small>
-			<time datetime="{{ post.date }}">{{ post.date | date: "%-d %B %Y" }}</time>
-		</small>
-		<span class="tag">{{  }}</span>
+		<span><time datetime="{{ post.date }}">{{ post.date | date: "%-d %B %Y" }}</time></span><br>
 		{% endfor %}
 	</ul>
 </article>
