@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apertura sito"
+title:  "Site Opening"
 date:   2024-04-10 23:51:29 +0200
 categories: Tian
 ---
