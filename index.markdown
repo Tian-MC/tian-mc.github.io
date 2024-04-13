@@ -22,12 +22,12 @@ layout: home
 	<main>
 		<ul class="list full-width">
 			<li>
-				<h3><a href="/">Osu!Italia</a></h3>
-				<p>An osu! private server for just Italians. (Dead)</p>
+				<h3><a href="https://heavenmore.xyz/">Heaven More</a></h3>
+				<p>My biggest and proudest project. It was a Multi-Gaming server which has many gameservers</p>
 			</li>
 			<li>
-				<h3><a href="/">Heaven More</a></h3>
-				<p>My biggest and proudest project. It was a Multi-Gaming server which has many gameservers (Dead)</p>
+				<h3><a href="/">Osu!Italia</a></h3>
+				<p>An osu! private server for just Italians. (Dead)</p>
 			</li>
 			<li>
 				<h3><a href="{{ site.lunar-link }}">Lunar</a></h3>
