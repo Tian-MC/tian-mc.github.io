@@ -63,6 +63,7 @@ layout: home
 		<hr>
 		<section id="contact">
 			<p><i class="fas fa-envelope"> </i> <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
+			<p><i class="fas fa-weixin"> </i>{{ site.wechat }}</p>
 		</section>
 	</main>
 </section>
