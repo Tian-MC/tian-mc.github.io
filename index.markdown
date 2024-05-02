@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
 
 <center>
 	<p>Hi, i'm Tian. This is some of the stuff I do.</p>
@@ -60,6 +63,7 @@ layout: home
 		<hr>
 		<section id="contact">
 			<p>email: <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
+			<i class="fas fa-envelope"></i>
 		</section>
 	</main>
 </section>
