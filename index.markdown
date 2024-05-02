@@ -62,8 +62,7 @@ layout: home
 		<p>I worked for a projet called <b>HeavenMore</b>, It was a Multi-Gaming Server based on rhythm games.</p>
 		<hr>
 		<section id="contact">
-			<p>email: <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
-			<i class="fas fa-envelope"></i>
+			<i class="fas fa-envelope"> <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
 		</section>
 	</main>
 </section>
