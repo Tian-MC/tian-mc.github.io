@@ -6,7 +6,7 @@ layout: home
 	<nav id="socials">
 		<menu>
 			<li><a href="https://t.me/{{ site.telegram_username }}" class="icon invert" title="Telegram"><img src="/images/icons8-telegram.svg" alt="Telegram"></a></li>
-			<li><a href="https://instagram.com/{{ site.instagram_username }}" class="icon invert" title="Instagram"><img src="/images/icons8-instagram.svg" alt="Telegram"></a></li>
+			<li><a href="https://instagram.com/{{ site.instagram_username }}" class="icon invert" title="Instagram"><img src="/images/icons8-instagram.svg" alt="Telegram"></a><li>
 			<li><a href="https://github.com/{{ site.github_username }}" class="icon invert" title="GitHub"><img src="/images/icons8-github-2.svg" alt="Telegram"></a></li>
 			<li><a href="https://github.com/{{ site.wechat }}" class="icon invert" title="Wechat"><img src="/images/icons8-wechat.svg" alt="Wechat"></a></li>
 		</menu>
