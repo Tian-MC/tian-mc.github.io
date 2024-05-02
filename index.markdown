@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-</head>
-
 <center>
 	<p>Hi, i'm Tian. This is some of the stuff I do.</p>
 	<nav id="socials">
@@ -62,8 +58,7 @@ layout: home
 		<p>I worked for a projet called <b>HeavenMore</b>, It was a Multi-Gaming Server based on rhythm games.</p>
 		<hr>
 		<section id="contact">
-			<p><i class="fas fa-envelope"> </i> <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
-			<p><i class="fas fa-weixin"> </i>{{ site.wechat }}</p>
+			<p>email: <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
 		</section>
 	</main>
 </section>
