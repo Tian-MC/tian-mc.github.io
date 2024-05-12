@@ -13,6 +13,7 @@ layout: home
 	</nav>
 
 	<img width="200" class="pfp" alt="Profile pic" src="https://cdn.discordapp.com/avatars/1065712172283482142/d318c6c36a7a0ed6d2506676768c8038">
+	pfp from discord
 </center>
 
 <section id="projects">
