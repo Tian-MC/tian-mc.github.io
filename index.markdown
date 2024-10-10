@@ -57,7 +57,7 @@ layout: home
 	<main>
 		<big>I'm Tian, a 18 year old developer based in Italy, and I'm also a massive fucking weeb.</big>
 		<p>I like coding and I love my girlfriend called Yuki.</p>
-		<p>I worked for a projet called <b>HeavenMore</b>, It was a Multi-Gaming Server based on rhythm games.</p>
+		<p>I worked for a projet called <b>HeavenMore</b>, it was a Multi-Gaming Server based on rhythm games.</p>
 		<hr>
 		<section id="contact">
 			<p>email: <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
