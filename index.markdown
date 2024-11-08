@@ -57,7 +57,7 @@ layout: home
 	<main>
     	<big>I'm Cristian Colletti, a passionate 24-year-old developer based in Italy, and I'm deeply into tech and server management.</big>
     	<p>I enjoy coding in Python and C, working on my home server setup, and creating custom solutions for self-hosting and automation.</p>
-    	<p>I've contributed to various personal and community projects, including managing my own XMPP server and developing tools for media sharing with Jellyfin and CasaOS.	</p>
+    	<p>I've contributed to various personal and community projects, including managing my own XMPP server and developing tools for media sharing.</p>
     	<hr>
     	<section id="contact">
     	    <p>email: <a href="mailto:{{site.email}}" id="email">{{ site.email }}</a></p>
